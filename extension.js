@@ -56,9 +56,9 @@
         botName: "nanoBot",
         language: "english",
         chatLink: "https://rawgit.com/ThunderGemios10/nanoBot/master/lang/en.json",
-        startupCap: 1, // 1-200
+        startupCap: 50, // 1-200
         startupVolume: 50, // 0-100
-        startupEmoji: false, // true or false
+        startupEmoji: true, // true or false
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
